@@ -1,0 +1,8 @@
+export const copyRight: any = {
+  soup: `Photo by <a href="https://unsplash.com/@smakoladka?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Olga Kudriavtseva</a> on <a href="https://unsplash.com/s/photos/soup?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>`,
+  salad: `Photo by <a href="https://unsplash.com/@annapelzer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Anna Pelzer</a> on <a href="https://unsplash.com/@annapelzer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>`,
+  noodle: `Photo by <a href="https://unsplash.com/@eaterscollective?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Eaters Collective</a> on <a href="https://unsplash.com/@eaterscollective?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>`,
+  pizza: `Photo by <a href="https://unsplash.com/@briewilly?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chad Montano</a> on <a href="https://unsplash.com/@briewilly?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>`,
+  burger: `Photo by <a href="https://unsplash.com/@phototastyfood?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Food Photographer David Fedulov</a> on <a href="https://unsplash.com/@phototastyfood?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>`,
+  cake: `Photo by <a href="https://unsplash.com/@caities_cakes_amsterdam?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Caitlyn de Wild</a> on <a href="https://unsplash.com/@caities_cakes_amsterdam?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>`,
+};
